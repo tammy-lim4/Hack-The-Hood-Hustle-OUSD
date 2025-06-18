@@ -1,0 +1,31 @@
+-- Pseudocode --
+
+Start
+1. Access the Alarm clock
+    a. Physical Alarm Clock
+        a. Grab the device.
+
+    b. Digital Alarm Clock
+        a. Navigate to the Alarm Clock App
+
+2. Making/Setting an alarm
+    a. If creating a new alarm:
+        a. Set the alarm time (AM/PM)
+            a. Make sure you have correct AM/PM
+            b. Set a desired ringstone (song, beat)
+    b. If modifying an existing alarm
+        a. Select the existing alarm 
+        b. Change time
+
+When the alarm clock rings:
+    a. Play ringtone and vibrate
+    b. Show snooze button
+        a. Give more 5 more minutes
+        b. Give more 10 more minutes
+
+        Once extra time is up:
+            a. Give "x" amount of minutes
+            b. Stop the alarm
+    c. Stop the Alarm and get up
+
+End
