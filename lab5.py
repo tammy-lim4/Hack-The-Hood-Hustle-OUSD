@@ -24,7 +24,6 @@ def generate_superhero_power2():
     power = power_list[random_power_index]
     return power
 print(f'Your random superhero power is: {generate_superhero_power2()}')
-generate_superhero_power2()
 
 #Task 4 Superhero Power Function with Arguments
 def generate_superhero_power3(user_name,user_power):
